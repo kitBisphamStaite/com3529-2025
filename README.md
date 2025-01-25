@@ -34,7 +34,7 @@ Jump to:
 
 ### Lectures
 
-Lectures will be held on **Tuesdays 3-4pm, [Broad Lane Block, Mappin Building7](https://sites.google.com/sheffield.ac.uk/pooledroomdirectory/teaching-spaces/broad-lane-block-mappin-building),  Lecture Theatre 7**.
+Lectures will be held on **Tuesdays 3-4pm, [Broad Lane Block, Mappin Building](https://sites.google.com/sheffield.ac.uk/pooledroomdirectory/teaching-spaces/broad-lane-block-mappin-building),  Lecture Theatre 7**.
 
 ### Practical Sessions (Labs)
 
