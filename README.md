@@ -34,16 +34,16 @@ Jump to:
 
 ### Lectures
 
-Lectures will be held on **Tuesdays 1-2pm in the [Sir Henry Stephenson Building](https://www.sheffield.ac.uk/acse/department/facilities/sir-henry-stephenson-building), Lecture Theatre 2**.
+Lectures will be held on **Tuesdays 3-4pm, [Broad Lane Block, Mappin Building7](https://sites.google.com/sheffield.ac.uk/pooledroomdirectory/teaching-spaces/broad-lane-block-mappin-building),  Lecture Theatre 7**.
 
 ### Practical Sessions (Labs)
 
-Practical Sessions (Labs) will be held on **Thursdays 1-2pm in Computer Room 3 on level 2 of the [Diamond](https://www.sheffield.ac.uk/engineering/diamond-engineering/floor-plans)**. These sessions will be a mix of coding and paper/pen exercises that are designed to help you prepare for the exam, based on that week's lecture materials. You'll need to bring your own laptop to the session, and have Java 11 or better installed on it. More information can be found in the [Getting Started](week1/practical-session-background-information.pdf) slides from week 1's practical session. You can use the laptop loan facility if you wish.
+Practical Sessions (Labs) will be held on **Thursdays 5-6pm in Computer Room 1 on level 2 of the [Diamond](https://www.sheffield.ac.uk/engineering/diamond-engineering/floor-plans)**. These sessions will be a mix of coding and paper/pen exercises that are designed to help you prepare for the exam, based on that week's lecture materials. You'll need to bring your own laptop to the session, and have Java 11 or better installed on it. More information can be found in the [Getting Started](week1/practical-session-background-information.pdf) slides from week 1's practical session. You can use the laptop loan facility if you wish.
 
 
 ## 3. Assessment
 
-COM3529 is assessed 100% by an exam, to be scheduled sometime in Weeks 13, 14 or 15.
+COM3529 is assessed 100% by an exam, to be scheduled in the exam period of Weeks 13&ndash;15.
 
 **The practical sessions are designed to prepare you with exercises that will be similar to questions asked in the exam**.
 
