@@ -14,7 +14,7 @@ Jump to:
 
   |<img src="misc/images/phil.jpg" width="150"/> | <img src="misc/images/jose.jpg" width="150"/> | <img src="misc/images/islam.jpg" width="150"/> | <img src="misc/images/megan.jpg" width="150"/> | <img src="misc/images/rui.jpg" width="150"/> |
   |:-:|:-:|:-:|:-:|:-:|
-  | **[Phil McMinn](https://mcminn.info)** <br /> Lecturer <br /> Weeks 1-5 | **[José Rojas](https://jmrojas.github.io)** <br /> Lecturer <br /> Weeks 6-11 | **Islam Elgendy** <br /> Teaching Assistant | **Megan Maton** <br /> Demonstrator | **Ruizhen (Rui) Gu** <br /> Demonstrator|
+  | **[Phil McMinn](https://philmcminn.com)** <br /> Lecturer <br /> Weeks 1-5 | **[José Rojas](https://jmrojas.github.io)** <br /> Lecturer <br /> Weeks 6-11 | **Islam Elgendy** <br /> Teaching Assistant | **Megan Maton** <br /> Demonstrator | **Ruizhen (Rui) Gu** <br /> Demonstrator|
 
 ## 2. Schedule and Materials
 
