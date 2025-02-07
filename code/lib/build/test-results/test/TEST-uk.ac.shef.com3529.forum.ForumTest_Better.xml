@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.shef.com3529.forum.ForumTest_Better" tests="13" skipped="0" failures="0" errors="0" timestamp="2024-02-22T14:14:01" hostname="penguin.local" time="0.025">
+  <properties/>
+  <testcase name="shouldLogoutUser()" classname="uk.ac.shef.com3529.forum.ForumTest_Better" time="0.0"/>
+  <testcase name="shouldNotSuccessfullyChangeUsernameIfAlreadyInUse()" classname="uk.ac.shef.com3529.forum.ForumTest_Better" time="0.0"/>
+  <testcase name="shouldComputeMostProlificPoster()" classname="uk.ac.shef.com3529.forum.ForumTest_Better" time="0.001"/>
+  <testcase name="shouldGetRegisteredUser()" classname="uk.ac.shef.com3529.forum.ForumTest_Better" time="0.006"/>
+  <testcase name="shouldSuccessfullyChangeUsername()" classname="uk.ac.shef.com3529.forum.ForumTest_Better" time="0.0"/>
+  <testcase name="shouldNotSuccessfullyChangeUsernameIfUserDoesNotExist()" classname="uk.ac.shef.com3529.forum.ForumTest_Better" time="0.004"/>
+  <testcase name="shouldNotLetBannedUsersPost()" classname="uk.ac.shef.com3529.forum.ForumTest_Better" time="0.001"/>
+  <testcase name="shouldNotRegisterEmailAddressThatAlreadyExists()" classname="uk.ac.shef.com3529.forum.ForumTest_Better" time="0.001"/>
+  <testcase name="shouldNotRegisterUsernameThatAlreadyExists()" classname="uk.ac.shef.com3529.forum.ForumTest_Better" time="0.001"/>
+  <testcase name="shouldGetPosts()" classname="uk.ac.shef.com3529.forum.ForumTest_Better" time="0.001"/>
+  <testcase name="shouldLoginUser()" classname="uk.ac.shef.com3529.forum.ForumTest_Better" time="0.0"/>
+  <testcase name="shouldHaveUserNameFollowingRegistering()" classname="uk.ac.shef.com3529.forum.ForumTest_Better" time="0.002"/>
+  <testcase name="shouldNotLoginBannedUser()" classname="uk.ac.shef.com3529.forum.ForumTest_Better" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

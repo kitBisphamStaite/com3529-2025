@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.shef.com3529.DIFTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2024-02-22T14:13:59" hostname="penguin.local" time="0.125">
+  <properties/>
+  <testcase name="oddOrPos_failure()" classname="uk.ac.shef.com3529.DIFTest" time="0.067"/>
+  <testcase name="lastZero_failure()" classname="uk.ac.shef.com3529.DIFTest" time="0.002"/>
+  <testcase name="findLast_failure()" classname="uk.ac.shef.com3529.DIFTest" time="0.001"/>
+  <testcase name="lastZero_defectExecuted_noInfection()" classname="uk.ac.shef.com3529.DIFTest" time="0.001"/>
+  <testcase name="oddOrPos_defectExecuted_noInfection()" classname="uk.ac.shef.com3529.DIFTest" time="0.001"/>
+  <testcase name="countPositive_defectExecuted_noInfection()" classname="uk.ac.shef.com3529.DIFTest" time="0.0"/>
+  <testcase name="countPositive_failure()" classname="uk.ac.shef.com3529.DIFTest" time="0.001"/>
+  <testcase name="oddOrPoss_defectNotExecuted()" classname="uk.ac.shef.com3529.DIFTest" time="0.002"/>
+  <testcase name="findLast_defectExecuted_noInfection()" classname="uk.ac.shef.com3529.DIFTest" time="0.002"/>
+  <testcase name="findLast_defectNotExecuted()" classname="uk.ac.shef.com3529.DIFTest" time="0.022"/>
+  <testcase name="countPositive_defectNotExecuted()" classname="uk.ac.shef.com3529.DIFTest" time="0.002"/>
+  <testcase name="lastZero_defectNotExecuted()" classname="uk.ac.shef.com3529.DIFTest" time="0.002"/>
+  <testcase name="lastZero_defectExecuted_infectionCaused_noFailure()" classname="uk.ac.shef.com3529.DIFTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

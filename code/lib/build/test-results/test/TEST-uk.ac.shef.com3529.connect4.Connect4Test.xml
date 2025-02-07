@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.shef.com3529.connect4.Connect4Test" tests="7" skipped="0" failures="0" errors="0" timestamp="2024-02-22T14:14:01" hostname="penguin.local" time="0.022">
+  <properties/>
+  <testcase name="shouldNotAllowColumnToOverflow()" classname="uk.ac.shef.com3529.connect4.Connect4Test" time="0.013"/>
+  <testcase name="shouldEndGameWithWinnerWhenFourInARowVertically()" classname="uk.ac.shef.com3529.connect4.Connect4Test" time="0.001"/>
+  <testcase name="shouldChangePieceAfterTurn()" classname="uk.ac.shef.com3529.connect4.Connect4Test" time="0.001"/>
+  <testcase name="shouldNotAllowInvalidColumns()" classname="uk.ac.shef.com3529.connect4.Connect4Test" time="0.001"/>
+  <testcase name="shouldEndGameWithWinnerWhenFourInARowHorizontally()" classname="uk.ac.shef.com3529.connect4.Connect4Test" time="0.001"/>
+  <testcase name="shouldPlaceCounterAboveLast()" classname="uk.ac.shef.com3529.connect4.Connect4Test" time="0.001"/>
+  <testcase name="shouldInitializeCorrectly()" classname="uk.ac.shef.com3529.connect4.Connect4Test" time="0.002"/>
+  <system-out><![CDATA[1
+2
+3
+4
+5
+6
+1
+1
+2
+2
+3
+1
+1
+1
+1
+2
+3
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

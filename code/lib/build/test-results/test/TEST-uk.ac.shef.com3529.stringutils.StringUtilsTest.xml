@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.shef.com3529.stringutils.StringUtilsTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-02-22T14:14:01" hostname="penguin.local" time="0.006">
+  <properties/>
+  <testcase name="shouldNotReturnNonRepeatedChar()" classname="uk.ac.shef.com3529.stringutils.StringUtilsTest" time="0.002"/>
+  <testcase name="shouldReturnRepeatedChar()" classname="uk.ac.shef.com3529.stringutils.StringUtilsTest" time="0.001"/>
+  <testcase name="shouldReturnRepeatedCharFromStartOfString()" classname="uk.ac.shef.com3529.stringutils.StringUtilsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.shef.com3529.calculator.CalculatorTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-02-22T14:14:01" hostname="penguin.local" time="0.134">
+  <properties/>
+  <testcase name="shouldCalculateTimesCorrectly()" classname="uk.ac.shef.com3529.calculator.CalculatorTest" time="0.113"/>
+  <testcase name="shouldRejectNonOperator()" classname="uk.ac.shef.com3529.calculator.CalculatorTest" time="0.004"/>
+  <testcase name="shouldCalculateMinusCorrectly()" classname="uk.ac.shef.com3529.calculator.CalculatorTest" time="0.002"/>
+  <testcase name="shouldCalculateDivideCorrectly()" classname="uk.ac.shef.com3529.calculator.CalculatorTest" time="0.002"/>
+  <testcase name="shouldRejectNonNumberInput()" classname="uk.ac.shef.com3529.calculator.CalculatorTest" time="0.006"/>
+  <testcase name="shouldCalculatePlusCorrectly()" classname="uk.ac.shef.com3529.calculator.CalculatorTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

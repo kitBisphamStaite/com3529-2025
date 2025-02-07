@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>DIF.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">lib</a> &gt; <a href="index.source.html" class="el_package">uk.ac.shef.com3529</a> &gt; <span class="el_source">DIF.java</span></div><h1>DIF.java</h1><pre class="source lang-java linenums">package uk.ac.shef.com3529;
+
+<span class="nc" id="L3">public class DIF {</span>
+    /*
+     *  If x == null throw a NullPointerException, else return
+     *  the index of the last element in x that equals y.
+     *  If no such element exists, return -1.
+     */
+    public static int findLast(int[] x, int y) {
+<span class="nc bnc" id="L10" title="All 2 branches missed.">        for (int i = x.length - 1; i &gt; 0; i--) {</span>
+<span class="nc bnc" id="L11" title="All 2 branches missed.">            if (x[i] == y) {</span>
+<span class="nc" id="L12">                return i;</span>
+            }
+        }
+<span class="nc" id="L15">        return -1;</span>
+    }
+
+    /*
+     *  If x == null throw a NullPointerException, else return
+     *  the number of positive elements in x.
+     */
+    public static int countPositive(int[] x) {
+<span class="nc" id="L23">        int count = 0;</span>
+<span class="nc bnc" id="L24" title="All 2 branches missed.">        for (int i = 0; i &lt; x.length; i++) {</span>
+<span class="nc bnc" id="L25" title="All 2 branches missed.">            if (x[i] &gt;= 0) {</span>
+<span class="nc" id="L26">                count++;</span>
+            }
+        }
+<span class="nc" id="L29">        return count;</span>
+    }
+
+    /*
+     *  If x == null throw a NullPointerException, else return
+     *  the index of the LAST 0 in x.
+     *  Return -1 if 0 does not occur in x.
+     */
+    public static int lastZero(int[] x) {
+<span class="nc bnc" id="L38" title="All 2 branches missed.">        for (int i = 0; i &lt; x.length; i++) {</span>
+<span class="nc bnc" id="L39" title="All 2 branches missed.">            if (x[i] == 0) {</span>
+<span class="nc" id="L40">                return i;</span>
+            }
+        }
+<span class="nc" id="L43">        return -1;</span>
+    }
+
+    /*
+     *  If x == null throw a NullPointerException, else return
+     *  the number of elements in x that are either odd or
+     *  positive (or both).
+     */
+    public static int oddOrPos(int[] x) {
+<span class="nc" id="L52">        int count = 0;</span>
+<span class="nc bnc" id="L53" title="All 2 branches missed.">        for (int i = 0; i &lt; x.length; i++) {</span>
+<span class="nc bnc" id="L54" title="All 4 branches missed.">            if (x[i] % 2 == 1 || x[i] &gt; 0) {</span>
+<span class="nc" id="L55">                count++;</span>
+            }
+        }
+<span class="nc" id="L58">        return count;</span>
+    }
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.11.202310140853</span></div></body></html>
