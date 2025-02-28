@@ -14,7 +14,7 @@ Jump to:
 
   |<img src="misc/images/phil.jpg" width="150"/> | <img src="misc/images/jose.jpg" width="150"/> | <img src="misc/images/owain.jpg" width="150"/> | <img src="misc/images/michael.jpg" width="150"/> |
   |:-:|:-:|:-:|:-:|
-  | **[Phil McMinn](https://philmcminn.com)** <br /> Lecturer <br /> Weeks 1&ndash;4 | **[José Rojas](https://jmrojas.github.io)** <br /> Lecturer <br /> Weeks 5&ndash;6; 9&ndash;10 | **Owain Parry** <br /> Lecturer <br /> Week 7 | **Michael Foster** <br /> Lecturer <br /> Week 8|
+  | **[Phil McMinn](https://philmcminn.com)** <br /> Lecturer <br /> Weeks 1&ndash;4 | **[José Rojas](https://jmrojas.github.io)** <br /> Lecturer <br /> Weeks 5&ndash;6; 9&ndash;10 | **Owain Parry** <br /> Lecturer <br /> Week 7 | **[Michael Foster](https://jmafoster1.github.io/)** <br /> Lecturer <br /> Week 8|
 
   |<img src="misc/images/islam.jpg" width="150"/> | <img src="misc/images/megan.jpg" width="150"/> | <img src="misc/images/rui.jpg" width="150"/> |
   |:-:|:-:|:-:|
