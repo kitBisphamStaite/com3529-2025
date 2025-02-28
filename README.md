@@ -3,7 +3,7 @@
 Welcome! This repository code examples, practical sheets, and slides to support the Spring Semester module COM3529 "Software Testing and Analysis" at the University of Sheffield.
 
 Jump to:
-- [COM3529 – Software Testing and Analysis Spring Semester 2025](#com3529-software-testing-and-analysis--spring-semester-2025)
+- [COM3529 – Software Testing and Analysis  Spring Semester 2025](#com3529-software-testing-and-analysis--spring-semester-2025)
   - [1. Teaching Staff](#1-teaching-staff)
   - [2. Schedule and Materials](#2-schedule-and-materials)
     - [Lectures](#lectures)
@@ -27,12 +27,12 @@ Jump to:
 |3 | **[Testing Big and Small Part 2](slides/3-testing-big-small-2.pdf)**<ul><li>Unit Testing Part 2<ul><li>Writing Clear Unit Tests</li></ul><li>Test Doubles</li></ul> | [Better Unit Testing](practicals/3-better-unit-testing.md) |
 |4 | **Testing Big and Small Part 3**<ul><li>Larger Tests</li></ul>**Coverage Criteria, Part 1**<ul><li>Introduction to Coverage Criteria</li></ul> | Test Doubles |
 |5 | **Coverage Criteria, Part 2**<ul><li>Control Flow Analysis and Testing</li><li>Logic Analysis and Testing</li><li>Conclusions on Coverage</li></ul> | Test Coverage and Control Flow Graphs |
-|6 | TBA | TBA |
-|7 | TBA | TBA |
-|8 | TBA | TBA |
+|6 | **Mutation Testing** | Code Defenders |
+|7 | **Regression Testing** (Guest lecturer: [Dr Owain Parry](https://o-parry.github.io/)) | Regression Testing in Practice |
+|8 | **Model-Based Testing** (Guest lecturer: [Dr Michael Foster](https://jmafoster1.github.io/)) | TBA |
 |Easter| | |
-|9 | TBA | TBA |
-|10| TBA | TBA |
+|9 | **Search-Based Test Generation** | The EvoSuite Tool |
+|10| **Fuzzing** | Your First Fuzzer |
 
 ### Lectures
 
