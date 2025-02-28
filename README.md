@@ -29,7 +29,7 @@ Jump to:
 |5 | **Coverage Criteria, Part 2**<ul><li>Control Flow Analysis and Testing</li><li>Logic Analysis and Testing</li><li>Conclusions on Coverage</li></ul> | Test Coverage and Control Flow Graphs |
 |6 | **Mutation Testing** | Code Defenders |
 |7 | **Regression Testing** (Guest lecturer: [Dr Owain Parry](https://o-parry.github.io/)) | Regression Testing in Practice |
-|8 | **Model-Based Testing** (Guest lecturer: [Dr Michael Foster](https://jmafoster1.github.io/)) | TBA |
+|8 | **Model-Based Testing** (Guest lecturer: [Dr Michael Foster](https://jmafoster1.github.io/)) | MBT Exercises |
 |Easter| | |
 |9 | **Search-Based Test Generation** | The EvoSuite Tool |
 |10| **Fuzzing** | Your First Fuzzer |
