@@ -59,3 +59,4 @@ The exam may feature questions **requiring you to write Java code**. This code
 needs to be **syntactically correct** and may involve writing JUnit tests that
 call methods in libraries studied in the module (e.g., mocking libraries).
 
+<iframe id="kaltura_player" src='https://cdnapisec.kaltura.com/p/2103181/embedPlaykitJs/uiconf_id/53345422?iframeembed=true&amp;entry_id=1_xyxl1lsv&amp;config%5Bprovider%5D=%7B%22widgetId%22%3A%221_3q8rfkj7%22%7D&amp;config%5Bplayback%5D=%7B%22startTime%22%3A0%7D'  style="width: 400px;height: 285px;border: 0;" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" title="Logic Analysis and Testing"></iframe>
