@@ -31,8 +31,8 @@ Jump to:
 |1 | **[Introduction](slides/1-introduction.pdf)**<ul><li>Beizer's Maturity Model</li><li>Why finding all bugs is impossible</li><li>How software failures happen (the RIPR model)</li></ul>| [Getting Started](practicals/1-getting-started.pdf) |
 |2 | **[Testing Big and Small Part 1](slides/2-testing-big-small-1.pdf)**<ul><li>Test Automation</li><li>Testing Scope (The Test Triangle)</li><li>Unit Testing Part 1<ul><li>Avoiding Brittle Tests</li></ul></li></ul> | [Defects, Infections and Failures](practicals/2-defects-infections-failures.md) |
 |3 | **[Testing Big and Small Part 2](slides/3-testing-big-small-2.pdf)**<ul><li>Unit Testing Part 2<ul><li>Writing Clear Unit Tests</li></ul><li>Test Doubles</li></ul> | [Better Unit Testing](practicals/3-better-unit-testing.md) |
-|4 | **Testing Big and Small Part 3**<ul><li>Larger Tests</li></ul>**Coverage Criteria, Part 1**<ul><li>Introduction to Coverage Criteria</li></ul> | Test Doubles |
-|5 | **Coverage Criteria, Part 2**<ul><li>Control Flow Analysis and Testing</li><li>Logic Analysis and Testing</li><li>Conclusions on Coverage</li></ul> | Test Coverage and Control Flow Graphs |
+|4 | **[Testing Big and Small Part 3](slides/4-testing-big-small-3.pdf)**<ul><li>Larger Tests</li></ul>**[Coverage Criteria, Part 1](slides/4-coverage-part1.pdf)**<ul><li>Introduction to Coverage Criteria</li></ul> | [Test Doubles](practicals/4-test-doubles.md) and [Test Coverage](practicals/4-coverage.md) |
+|5 | **Coverage Criteria, Part 2**<ul><li>Control Flow Analysis and Testing</li><li>Logic Analysis and Testing</li><li>Conclusions on Coverage</li></ul> | Control Flow Graphs and Logic Testing |
 |6 | **Mutation Testing** | Code Defenders |
 |7 | **Regression Testing** (Guest lecturer: [Dr Owain Parry](https://o-parry.github.io/)) | Regression Testing in Practice |
 |8 | **Model-Based Testing** (Guest lecturer: [Dr Michael Foster](https://jmafoster1.github.io/)) | MBT Exercises |
