@@ -33,12 +33,13 @@ Jump to:
 |3 | **[Testing Big and Small Part 2](slides/3-testing-big-small-2.pdf)**<ul><li>Unit Testing Part 2<ul><li>Writing Clear Unit Tests</li></ul><li>Test Doubles</li></ul> | [Better Unit Testing](practicals/3-better-unit-testing.md) ([Solutions](practicals/3-better-unit-testing-solutions.md)) |
 |4 | **[Testing Big and Small Part 3](slides/4-testing-big-small-3.pdf)**<ul><li>Larger Tests</li></ul>**[Coverage Criteria, Part 1](slides/4-coverage-part1.pdf)**<ul><li>Introduction to Coverage Criteria</li></ul> | [Test Doubles](practicals/4-test-doubles.md) ([Solutions](practicals/4-test-doubles-solutions.md)) and [Test Coverage](practicals/4-coverage.md) ([Solutions](practicals/4-coverage-solutions.md))|
 |5 | **Coverage Criteria, Part 2**<ul><li>[Control Flow Analysis and Testing](slides/5-control-flow-analysis-and-testing.pdf)</li><li>[Logic Analysis and Testing](slides/5-logic-analysis-and-testing.pdf)</li><li>[Conclusions on Coverage](slides/5-conclusions.pdf)</li></ul> | [Control Flow Graphs and Logic Testing](practicals/5-cfgs-and-logic.md) |
-|6 | **Mutation Testing** | Code Defenders |
+|6 | *No lecture* | *No practical class* |
 |7 | **Regression Testing** (Guest lecturer: [Dr Owain Parry](https://o-parry.github.io/)) | Regression Testing in Practice |
 |8 | **Model-Based Testing** (Guest lecturer: [Dr Michael Foster](https://jmafoster1.github.io/)) | MBT Exercises |
 |Easter| | |
-|9 | **Search-Based Test Generation** | The EvoSuite Tool |
-|10| **Fuzzing** | Your First Fuzzer |
+|9 | **Mutation Testing** | Code Defenders |
+|10 | **Search-Based Test Generation** | The EvoSuite Tool |
+|11| **Fuzzing** | Your First Fuzzer |
 
 ### Lectures
 
