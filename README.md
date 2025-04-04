@@ -35,7 +35,7 @@ Jump to:
 |5 | **Coverage Criteria, Part 2**<ul><li>[Control Flow Analysis and Testing](slides/5-control-flow-analysis-and-testing.pdf)</li><li>[Logic Analysis and Testing](slides/5-logic-analysis-and-testing.pdf)</li><li>[Conclusions on Coverage](slides/5-conclusions.pdf)</li></ul> | [Control Flow Graphs and Logic Testing](practicals/5-cfgs-and-logic.md) |
 |6 | *No lecture* | *No practical class* |
 |7 | [**Regression Testing**](slides/7-regression.pdf) (Guest lecturer: [Dr Owain Parry](https://o-parry.github.io/)) | [Regression Testing in Practice](practicals/7-regression-testing.md) |
-|8 | **[Model-Based Testing](slides/8-MBT.pdf)** ([slides with overlays](slides/8-MBT-overlays.pdf)) (Guest lecturer: [Dr Michael Foster](https://jmafoster1.github.io/)) | MBT Exercises |
+|8 | **[Model-Based Testing](slides/8-MBT.pdf)** ([slides with overlays](slides/8-MBT-overlays.pdf)) (Guest lecturer: [Dr Michael Foster](https://jmafoster1.github.io/)) | [MBT Exercises](practicals/8-MBT.md) |
 |Easter| | |
 |9 | **Mutation Testing** | Code Defenders |
 |10 | **Search-Based Test Generation** | The EvoSuite Tool |
