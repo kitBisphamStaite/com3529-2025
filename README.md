@@ -38,7 +38,7 @@ Jump to:
 |8 | **[Model-Based Testing](slides/8-MBT.pdf)** ([slides with overlays](slides/8-MBT-overlays.pdf)) (Guest lecturer: [Dr Michael Foster](https://jmafoster1.github.io/)) | [MBT Exercises](practicals/8-MBT.md) ([Solutions](practicals/8-MBT-solutions.md)) |
 |Easter| | |
 |9 | **[Mutation Testing](slides/9-mutation.pdf)** | [Code Defenders](practicals/9-CodeDefenders.pdf) |
-|10 | **[Search-Based Test Generation](slides/10-sbst.pdf)** | The EvoSuite Tool |
+|10 | **[Search-Based Test Generation](slides/10-sbst.pdf)** | [The EvoSuite Tool](practicals/10-evosuite-demo/evosuite-demo.md) |
 |11| **Fuzzing** | Your First Fuzzer |
 
 ### Lectures
