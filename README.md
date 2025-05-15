@@ -39,7 +39,7 @@ Jump to:
 |Easter| | |
 |9 | **[Mutation Testing](slides/9-mutation.pdf)** | [Code Defenders](practicals/9-CodeDefenders.pdf) |
 |10 | **[Search-Based Test Generation](slides/10-sbst.pdf)** | [The EvoSuite Tool](practicals/10-evosuite-demo/evosuite-demo.md) |
-|11| **[Fuzzing](slides/11-fuzz-testing.pdf)** | Your First Fuzzer |
+|11| **[Fuzzing](slides/11-fuzz-testing.pdf)** | [Your First Fuzzer](practicals/11-fuzzing.md) |
 
 ### Lectures
 
