@@ -117,7 +117,11 @@ Notice that the output of the `run_program` function is of type [CompletedProces
 
 How exciting, our first fuzzer is ready!
 
-Write the code for a main method where the required arguments are taken, i.e., the target program, number of cases, and maximum length for input strings, the `fuzzer` function is called and its results are printed.
+Write the code for a main method where the required arguments are taken, i.e., the target program, number of cases, and maximum length for input strings, the `fuzzer` function is called and its results are printed. Your final fuzzer should be executable as follows:
+
+```
+python3 jfuzzer.py Greeting 10 5
+```
 
 Try different values for the number of tests and length of strings and study the results. Is your fuzzer able to reveal problems in the Java program, i.e., executions ending with an uncaught exception being thrown?
 
